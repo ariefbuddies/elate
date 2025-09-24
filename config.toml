@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "https://ariefbuddies.github.io/elate"
+baseurl = "https://ariefbuddies.github.io/elate/"
 title = "Elate theme"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
